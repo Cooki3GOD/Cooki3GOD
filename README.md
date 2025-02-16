@@ -44,6 +44,7 @@ Here are some of the projects I've worked on:
 - **Email**: asamaelcontact@gmail.com
 - **Twitter**: [@aSamael_](https://twitter.com/aSamael_)
 - **GitHub**: [Cooki3GOD](https://github.com/Cooki3GOD/Cooki3God.git)
+- **Discord**: cooki33_
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project. I'm always open to new opportunities and connections!
 

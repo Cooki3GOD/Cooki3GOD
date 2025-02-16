@@ -1,8 +1,7 @@
-# Welcome to Cooki3GOD's Profile!
+<a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
-Hello! I'm Cooki3GOD, a passionate developer currently diving into the world of frontend and backend development. Here's a little bit about me:
+<h1>⛧About Me⛧</h1>
 
-## About Me
 
 - **Name**: Cooki3GOD
 - **Location**: Poland
@@ -18,6 +17,11 @@ I'm currently learning the basics of frontend and backend development, and here 
 - **Backend Development**: Node.js, Express.js
 - **Database Management**: MongoDB, MySQL
 - **Tools & Technologies**: Git, GitHub
+
+## GitHub Stats
+
+![Cooki3GOD's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cooki3GOD&show_icons=true&theme=radical)
+
 
 ## Projects
 

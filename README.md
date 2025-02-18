@@ -38,12 +38,15 @@ Here are some of the projects I've worked on:
 3. **Login and Registration System**: A complete login and registration system for web applications.
    - **Technologies Used**: PHP, CSS, MySQL
    - **Repository**: [GitHub Link](https://github.com/Cooki3GOD/LoginAndRegistrationSystem)
-
+4. **Animations**: Various animations using HTML and CSS.
+   - **Technologies Used**: HTML, CSS
+   - **Repository**: [GitHub Link](https://github.com/Cooki3GOD/Animations)
+  
 ## Contact Me
 
 - **Email**: asamaelcontact@gmail.com
 - **Twitter**: [@aSamael_](https://twitter.com/aSamael_)
-- **GitHub**: [Cooki3GOD](https://github.com/Cooki3GOD/Cooki3God.git)
+- **GitHub**: [Cooki3GOD](https://github.com/Cooki3GOD/)
 - **Discord**: cooki33_
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project. I'm always open to new opportunities and connections!

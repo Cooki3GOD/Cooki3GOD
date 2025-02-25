@@ -32,9 +32,9 @@ Feel free to reach out if you have any questions or if you'd like to collaborate
 
 Here are some of the projects I've worked on:
 
-1. **Simple Calculator**: A basic calculator web application.
-   - **Technologies Used**: HTML, CSS, JavaScript
-   - **Repository**: [GitHub Link](https://github.com/Cooki3GOD/simpleCalculator)
+1. **Real Time Chat App**: A real-time chat application that allows users to communicate instantly.
+   - **Technologies Used**: HTML, CSS, JavaScript, Node.js, Socket.io
+   - **Repository**: [GitHub Link](https://github.com/Cooki3GOD/Real-Time-Chat-App)
 
 2. **Modern Login Page**: A stylish login page for web applications.
    - **Technologies Used**: HTML, CSS, JavaScript
@@ -43,6 +43,7 @@ Here are some of the projects I've worked on:
 3. **Login and Registration System**: A complete login and registration system for web applications.
    - **Technologies Used**: PHP, CSS, MySQL
    - **Repository**: [GitHub Link](https://github.com/Cooki3GOD/LoginAndRegistrationSystem)
+     
 4. **Animations**: Various animations using HTML and CSS.
    - **Technologies Used**: HTML, CSS
    - **Repository**: [GitHub Link](https://github.com/Cooki3GOD/Animations)
